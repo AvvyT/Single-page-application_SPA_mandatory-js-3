@@ -1,0 +1,45 @@
+body {
+  font-family: Indie Flower, sans-serif;
+  background-color: #FBD3E8;
+  text-align: center;
+}
+
+button {
+  font-size: 25px;
+  background-color: #EFABFF;
+  border-radius: 10px;
+  margin: 15px;
+  outline: none;
+}
+
+img {
+  height: 350px;
+  border: 6px lightgrey;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+}
+
+select {
+  font-size: 17px;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: #F9EAFD;
+}
+
+h2 {
+  font-family: Indie Flower, fantasy;
+}
+
+#breeds {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
